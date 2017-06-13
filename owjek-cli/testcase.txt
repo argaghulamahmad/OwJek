@@ -1,0 +1,8 @@
+go from E8Z8 to A7X3 with OW-JEK Regular
+go from D9Q2 to A1Y0 with OW-JEK Regular
+go from D9Q2 to A1Y0 with OW-JEK Exclusive
+go from A4U5 to D9W3 with OW-JEK Exclusive
+go from D2Q3 to A4W1 with OW-JEK Exclusive
+go from D2Q3 to A4W1
+go from D2Q3 to A1Y0
+go from D9Q2 to A4W1
