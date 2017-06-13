@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="C_1606821601_TUGAS3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/C_1606821601_TUGAS3_jar</output-path>
+    <root id="archive" name="C_1606821601_TUGAS3.jar">
+      <element id="module-output" name="C_1606821601_TUGAS3" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
